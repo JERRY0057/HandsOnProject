@@ -1,2 +1,3 @@
 # HandsOnProject
-SmallHandsOnProject
+Small Hands on Indiviual Project 
+By - Peeyush Biswas
